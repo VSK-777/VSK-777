@@ -83,13 +83,16 @@
 ## 📊 GitHub Engineering Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VSK-777&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&hide_rank=true" alt="GitHub Stats" height="195"/>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSK-777&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=VSK-777&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&hide_rank=true" alt="GitHub Stats" height="195"/>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSK-777&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="195"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
