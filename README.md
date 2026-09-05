@@ -80,7 +80,7 @@
 ## 📊 GitHub Engineering Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VSK-777&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&hide_rank=true" alt="GitHub Stats" height="170"/>&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSK-777&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VSK-777&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170"/>
 </div>
 
 <br />
@@ -92,7 +92,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VSK-777&bg_color=0D1117&color=2563EB&line=2563EB&point=FFFFFF&area=true&hide_border=true&custom_title=VAJJHA%20SAI%20KRISHNA's%20Contribution%20Graph" alt="Activity Graph" />
+  <img src="https://activity-graph.vercel.app/graph?username=VSK-777&bg_color=0D1117&color=2563EB&line=2563EB&point=FFFFFF&area=true&hide_border=true&custom_title=VAJJHA%20SAI%20KRISHNA's%20Contribution%20Graph" alt="Activity Graph" />
 </div>
 
 <br />
@@ -100,6 +100,19 @@
 ---
 
 ## 🚀 Featured Projects
+
+### 🏥 [ArogyaMitra](https://github.com/VSK-777/ArogyaMitra)
+> **AI-Powered Hospital Management System**
+> 
+> A complete full-stack application designed to streamline hospital workflows, featuring AI-driven pre-consultations and intelligent queue management.
+>
+> - Architected a robust backend using **Java** and **Spring Boot**.
+> - Integrated **Gemini AI** for speech-to-text and automated clinical documentation.
+> - Developed AI microservices with **Python** and **FastAPI**.
+> - Implemented secure authentication and role-based access control using **Spring Security** and **JWT**.
+> - Designed a modern, responsive frontend with **React**, **TypeScript**, and **Tailwind CSS**.
+> 
+> 🔗 [View Repository](https://github.com/VSK-777/ArogyaMitra)
 
 ### 🧠 [AIAlgoCoach](https://github.com/VSK-777/AIAlgoCoach)
 > **Full-Stack Mentorship Platform**
