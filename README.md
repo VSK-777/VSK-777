@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2563EB&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I'm+VAJJHA+SAI+KRISHNA;Java+Full+Stack+Developer;Backend+Engineering+Enthusiast;Computer+Science+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2563EB&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I'm+VAJJHA+SAI+KRISHNA;Java+Full+Stack+Developer;AI+%2B+Java+Full+Stack+Enthusiast;Backend+Engineering+%26+AI+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h3>Java Full Stack Developer | Backend Engineer</h3>
-  <p><em>Building secure, scalable backend systems and practical full-stack applications.</em></p>
+  <h3>Java Full Stack Developer | AI Application Developer</h3>
+  <p><em>Building secure, scalable full-stack applications with Java, Spring Boot, and modern AI technologies.</em></p>
 </div>
 
 <div align="center">
@@ -18,11 +18,13 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science Engineering Student
-- 💻 Focused on **Java, Spring Boot, REST APIs, and backend engineering**
+- 💻 Focused on **Java, Spring Boot, REST APIs, and full-stack development**
+- 🤖 Interested in **Artificial Intelligence, LLM applications, AI APIs, and AI-powered software systems**
+- 🚀 Interested in combining **Java Full Stack + AI** to build intelligent, production-oriented applications
 - 🔐 Interested in **secure application development, authentication, authorization, and database design**
 - 🧠 Practicing **Data Structures & Algorithms** and Competitive Programming
-- 🚀 Exploring **microservices, Docker, cloud deployment, and scalable software architecture**
-- 💼 Open to **Java Full Stack Development and Backend Engineering** opportunities
+- ☁️ Exploring **microservices, Docker, cloud deployment, and scalable software architecture**
+- 💼 Open to **Java Full Stack, Backend Engineering, and AI-integrated application development** opportunities
 
 ## 🛠️ Core Skills
 
@@ -31,6 +33,9 @@
 
 #### 🎨 Frontend
 > React.js · Vite · TypeScript · HTML5 · CSS3 · Tailwind CSS
+
+#### 🤖 AI & Intelligent Applications
+> AI API Integration · LLM Applications · Gemini · Groq · LangChain4j · Prompt Engineering · AI-Assisted Workflows
 
 #### 🗄️ Databases
 > PostgreSQL · MySQL · Neon
@@ -122,7 +127,7 @@ A full-stack analytics platform that transforms Codeforces activity into topic m
 
 ## 🎯 Engineering Focus
 
-**Java Full Stack Development • Spring Boot • REST APIs • Spring Security • JWT • PostgreSQL • React • Microservices • Docker • Cloud Deployment • Data Structures & Algorithms**
+**Java Full Stack Development • AI Application Development • Spring Boot • REST APIs • Spring Security • JWT • PostgreSQL • React • LLM Integration • Microservices • Docker • Cloud Deployment • Data Structures & Algorithms**
 
 ---
 
