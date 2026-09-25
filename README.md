@@ -69,47 +69,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=111111)
 
-**Core Concepts**
-
-OOP · DSA · REST API Design · Database Design · Authentication · Authorization · Prompt Engineering · AI-Assisted Workflows · Problem Solving
----
-
-## 🚀 Featured Projects
-
-### 🏥 [ArogyaMitra](https://github.com/VSK-777/ArogyaMitra)
-**AI-Powered Hospital Appointment, Pre-Consultation & Documentation System**
-
-A full-stack healthcare workflow platform covering patient appointments, AI-assisted pre-consultation, doctor queues, clinical documentation, role-based access, and secure medical-document storage.
-
-- 🏗️ **Architected** a modular **Java + Spring Boot** backend with controller, service, repository, integration, security, and domain layers.
-- 🔐 **Implemented** stateless **JWT authentication + Spring Security RBAC** for Patient, Doctor, Receptionist, and Admin workflows, with endpoint protection, rate limiting, and audit logging.
-- 🤖 **Integrated** a hybrid AI pipeline using **Gemini + LangChain4j** with a **FastAPI fallback microservice** for resilient clinical summarization.
-- 🗄️ **Designed** transactional appointment and queue workflows using **PostgreSQL/Neon + Spring Data JPA/Hibernate**.
-- ☁️ **Engineered** private medical-document storage using **Supabase S3-compatible storage**, UUID-based object keys, access controls, and pre-signed download URLs.
-- 🔄 **Implemented** automated doctor-unavailability handling with same-department reassignment, fallback scheduling, and manual-review states.
-- 📊 **Delivered** database-backed dashboards for appointments, queues, analytics, staff management, and immutable audit trails.
-- 📈 **Performance Metric:** Reduced average API response time by **[X%]** through query/index optimization; achieved **[X ms] p95 latency** under **[X] concurrent requests**.
-- 🧪 **Quality Metric:** Automated **[X%]** of critical backend workflows with **[X]+ unit/integration tests**.
-
-🔗 **Repository:** [ArogyaMitra](https://github.com/VSK-777/ArogyaMitra) &nbsp; | &nbsp; 🚀 **[Live Demo](https://sih-arogya-mitra.vercel.app)**
-
-### 🧠 [AIAlgoCoach](https://github.com/VSK-777/AIAlgoCoach)
-**AI-Powered Competitive Programming Analytics & Mentorship Platform**
-
-A full-stack analytics platform that transforms Codeforces activity into topic mastery insights, performance analytics, and personalized AI practice recommendations.
-
-- 🏗️ **Engineered** a layered **Java + Spring Boot** backend using Spring MVC, Spring Data JPA, Spring Security, service orchestration, and domain-focused REST APIs.
-- 🔐 **Hardened** authentication with **JWT**, **Bucket4j rate limiting**, anti-brute-force controls, backend validation, and OWASP-oriented HTML sanitization.
-- 🗃️ **Modeled** analytics persistence with **Neon PostgreSQL + Flyway**, supporting authentication, performance history, and derived competitive-programming insights.
-- 📡 **Integrated** the **Codeforces API** to aggregate submissions, ratings, verdicts, difficulty tiers, tags, and language usage into structured analytics.
-- 🧠 **Developed** context-aware AI mentorship using **Groq/Llama**, injecting live Codeforces analytics into recommendation and chat workflows.
-- 📊 **Built** interactive dashboards for rating progression, topic mastery, difficulty distribution, activity heatmaps, verdict analysis, and language preferences with **React, Vite, Tailwind CSS, and Recharts**.
-- 🐳 **Containerized and deployed** the decoupled frontend/backend architecture with **Docker + Vercel + Render**.
-- 📈 **Data Metric:** Processes **[X,000+]** Codeforces submissions per analysis run and reduced repeated external API calls by **[X%]** using caching and request controls.
-- ⚡ **Performance Metric:** Improved analytics endpoint latency from **[X ms] → [Y ms]** after database indexing, query optimization, and response caching.
-- 🧪 **Quality Metric:** Validated **[X]+ API scenarios** across authentication, analytics, recommendation, and external API integration flows.
-
-🔗 **Repository:** [AIAlgoCoach](https://github.com/VSK-777/AIAlgoCoach) &nbsp; | &nbsp; 🚀 **[Live Demo](https://ai-algo-coach.vercel.app)**
 
 ---
 
