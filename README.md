@@ -19,64 +19,75 @@
 
 - 🎓 Computer Science Engineering Student
 - 💻 Focused on **Java, Spring Boot, REST APIs, and backend engineering**
-- 🔐 Interested in **secure application development, authentication, and database design**
+- 🔐 Interested in **secure application development, authentication, authorization, and database design**
 - 🧠 Practicing **Data Structures & Algorithms** and Competitive Programming
-- 🚀 Exploring **microservices and scalable software architecture**
-- 💼 Open to Software Engineering and Java Full Stack opportunities
+- 🚀 Exploring **microservices, Docker, cloud deployment, and scalable software architecture**
+- 💼 Open to **Java Full Stack Development and Backend Engineering** opportunities
 
 ## 🛠️ Core Skills
 
-**Backend:** Java, Spring Boot, Spring Security, Hibernate, REST APIs, JWT  
-**Frontend:** React.js, Vite, HTML5, CSS3, Tailwind CSS  
-**Databases:** MySQL  
-**Tools:** Git, GitHub, Maven, JUnit, Postman  
-**Core Concepts:** OOP, DSA, API Design, Database Design, Problem Solving
+**Backend:** Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, REST APIs, JWT  
+**Frontend:** React.js, Vite, TypeScript, HTML5, CSS3, Tailwind CSS  
+**Databases:** PostgreSQL, MySQL, Neon  
+**Cloud & Tools:** Docker, Git, GitHub, Maven, JUnit, Postman, Vercel, Render  
+**Core Concepts:** OOP, DSA, API Design, Database Design, Authentication, Authorization, Problem Solving
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🏥 [ArogyaMitra](https://github.com/VSK-777/ArogyaMitra)
-**AI-Powered Hospital Management System**
+**AI-Powered Hospital Appointment, Pre-Consultation & Documentation System**
 
-A full-stack application designed to streamline hospital workflows through AI-assisted pre-consultations and intelligent queue management.
+A full-stack healthcare workflow platform covering patient appointments, AI-assisted pre-consultation, doctor queues, clinical documentation, role-based access, and secure medical-document storage.
 
-- Built the core backend with **Java and Spring Boot**
-- Implemented authentication and role-based access control using **Spring Security + JWT**
-- Integrated **Gemini AI** for speech-to-text and automated clinical documentation
-- Developed AI microservices using **Python + FastAPI**
-- Built the frontend with **React, TypeScript, and Tailwind CSS**
+- 🏗️ **Architected** a modular **Java + Spring Boot** backend with controller, service, repository, integration, security, and domain layers.
+- 🔐 **Implemented** stateless **JWT authentication + Spring Security RBAC** for Patient, Doctor, Receptionist, and Admin workflows, with endpoint protection, rate limiting, and audit logging.
+- 🤖 **Integrated** a hybrid AI pipeline using **Gemini + LangChain4j** with a **FastAPI fallback microservice** for resilient clinical summarization.
+- 🗄️ **Designed** transactional appointment and queue workflows using **PostgreSQL/Neon + Spring Data JPA/Hibernate**.
+- ☁️ **Engineered** private medical-document storage using **Supabase S3-compatible storage**, UUID-based object keys, access controls, and pre-signed download URLs.
+- 🔄 **Implemented** automated doctor-unavailability handling with same-department reassignment, fallback scheduling, and manual-review states.
+- 📊 **Delivered** database-backed dashboards for appointments, queues, analytics, staff management, and immutable audit trails.
+- 📈 **Performance Metric:** Reduced average API response time by **[X%]** through query/index optimization; achieved **[X ms] p95 latency** under **[X] concurrent requests**.
+- 🧪 **Quality Metric:** Automated **[X%]** of critical backend workflows with **[X]+ unit/integration tests**.
 
-🔗 [View Repository](https://github.com/VSK-777/ArogyaMitra)
+🔗 **Repository:** [ArogyaMitra](https://github.com/VSK-777/ArogyaMitra) &nbsp; | &nbsp; 🚀 **[Live Demo](https://sih-arogya-mitra.vercel.app)**
 
 ### 🧠 [AIAlgoCoach](https://github.com/VSK-777/AIAlgoCoach)
-**Competitive Programming Analytics & Mentorship Platform**
+**AI-Powered Competitive Programming Analytics & Mentorship Platform**
 
-A full-stack analytics platform that provides performance dashboards and insights for competitive programmers.
+A full-stack analytics platform that transforms Codeforces activity into topic mastery insights, performance analytics, and personalized AI practice recommendations.
 
-- Developed REST APIs using **Java + Spring Boot**
-- Designed the relational data model using **MySQL**
-- Implemented **JWT authentication and role-based access control**
-- Built the frontend using **React.js + Vite**
-- Integrated external APIs for coding-statistics analysis
+- 🏗️ **Engineered** a layered **Java + Spring Boot** backend using Spring MVC, Spring Data JPA, Spring Security, service orchestration, and domain-focused REST APIs.
+- 🔐 **Hardened** authentication with **JWT**, **Bucket4j rate limiting**, anti-brute-force controls, backend validation, and OWASP-oriented HTML sanitization.
+- 🗃️ **Modeled** analytics persistence with **Neon PostgreSQL + Flyway**, supporting authentication, performance history, and derived competitive-programming insights.
+- 📡 **Integrated** the **Codeforces API** to aggregate submissions, ratings, verdicts, difficulty tiers, tags, and language usage into structured analytics.
+- 🧠 **Developed** context-aware AI mentorship using **Groq/Llama**, injecting live Codeforces analytics into recommendation and chat workflows.
+- 📊 **Built** interactive dashboards for rating progression, topic mastery, difficulty distribution, activity heatmaps, verdict analysis, and language preferences with **React, Vite, Tailwind CSS, and Recharts**.
+- 🐳 **Containerized and deployed** the decoupled frontend/backend architecture with **Docker + Vercel + Render**.
+- 📈 **Data Metric:** Processes **[X,000+]** Codeforces submissions per analysis run and reduced repeated external API calls by **[X%]** using caching and request controls.
+- ⚡ **Performance Metric:** Improved analytics endpoint latency from **[X ms] → [Y ms]** after database indexing, query optimization, and response caching.
+- 🧪 **Quality Metric:** Validated **[X]+ API scenarios** across authentication, analytics, recommendation, and external API integration flows.
 
-🔗 [View Repository](https://github.com/VSK-777/AIAlgoCoach)
+🔗 **Repository:** [AIAlgoCoach](https://github.com/VSK-777/AIAlgoCoach) &nbsp; | &nbsp; 🚀 **[Live Demo](https://ai-algo-coach.vercel.app)**
 
 ---
 
-## 💼 Internship & Other Projects
+## 💼 Internship & Supporting Projects
 
-### [InternSpark Internship](https://github.com/VSK-777/InternSpark-Internship)
-Software engineering internship work focused on Java backend development, Spring Boot REST APIs, MySQL persistence, and OOP.
+### 💼 [InternSpark Internship](https://github.com/VSK-777/InternSpark-Internship)
+**Software Engineering Internship Work**
 
-### [TechnoHacks Internship](https://github.com/VSK-777/TechnoHacks-Internship)
-Full-stack development work involving Java, Spring Boot, HTML, CSS, JavaScript, form handling, validation, and database interaction.
+- Developed **Java backend services and REST APIs** using Spring Boot.
+- Implemented persistence and business logic using **MySQL + OOP principles**.
+- Built and tested reusable backend components using layered application architecture.
 
-### [Trust-Exam](https://github.com/VSK-777/Trust-Exam)
-Browser-based online examination and monitoring prototype using JavaScript, HTML, and CSS.
+### 💻 [TechnoHacks Internship](https://github.com/VSK-777/TechnoHacks-Internship)
+**Full-Stack Development Internship**
 
-### [Pollution-Monitor](https://github.com/VSK-777/Pollution-Monitor)
-Web-based environmental data dashboard focused on responsive UI and semantic HTML/CSS.
+- Implemented backend functionality using **Java and Spring Boot**.
+- Built frontend workflows using **HTML, CSS, and JavaScript**.
+- Added form validation, request handling, and database interaction.
 
 ---
 
@@ -100,26 +111,9 @@ Web-based environmental data dashboard focused on responsive UI and semantic HTM
 
 ---
 
-## 🏆 Highlights
+## 🎯 Engineering Focus
 
-- Built **AIAlgoCoach**, a full-stack platform using Spring Boot, React, and MySQL
-- Developed **ArogyaMitra**, an AI-powered hospital management system
-- Completed software engineering internship work at **InternSpark** and **TechnoHacks**
-- Consistently practicing **LeetCode and Codeforces**
-- Continuously expanding knowledge in **backend engineering, microservices, secure coding, and software architecture**
-
----
-
-## 🎯 Current Direction
-
-I am focused on becoming a strong **Java Full Stack / Backend Engineer**, with particular interest in:
-
-- Scalable REST API architecture
-- Spring Boot and Spring Security
-- Secure authentication and authorization
-- Database design and backend performance
-- Microservices and cloud-native systems
-- Data Structures & Algorithms
+**Java Full Stack Development • Spring Boot • REST APIs • Spring Security • JWT • PostgreSQL • React • Microservices • Docker • Cloud Deployment • Data Structures & Algorithms**
 
 ---
 
