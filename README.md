@@ -26,11 +26,20 @@
 
 ## 🛠️ Core Skills
 
-**Backend:** Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, REST APIs, JWT  
-**Frontend:** React.js, Vite, TypeScript, HTML5, CSS3, Tailwind CSS  
-**Databases:** PostgreSQL, MySQL, Neon  
-**Cloud & Tools:** Docker, Git, GitHub, Maven, JUnit, Postman, Vercel, Render  
-**Core Concepts:** OOP, DSA, API Design, Database Design, Authentication, Authorization, Problem Solving
+#### 🧩 Backend
+> Java · Spring Boot · Spring Security · Spring Data JPA · Hibernate · REST APIs · JWT
+
+#### 🎨 Frontend
+> React.js · Vite · TypeScript · HTML5 · CSS3 · Tailwind CSS
+
+#### 🗄️ Databases
+> PostgreSQL · MySQL · Neon
+
+#### ☁️ Cloud & Tools
+> Docker · Git · GitHub · Maven · JUnit · Postman · Vercel · Render
+
+#### 🧠 Core Concepts
+> OOP · DSA · API Design · Database Design · Authentication · Authorization · Problem Solving
 
 ---
 
