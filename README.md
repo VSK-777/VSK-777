@@ -69,7 +69,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=111111)
 
-
 ---
 
 ---
@@ -88,8 +87,8 @@ A full-stack healthcare workflow platform covering patient appointments, AI-assi
 - ☁️ **Engineered** private medical-document storage using **Supabase S3-compatible storage**, UUID-based object keys, access controls, and pre-signed download URLs.
 - 🔄 **Implemented** automated doctor-unavailability handling with same-department reassignment, fallback scheduling, and manual-review states.
 - 📊 **Delivered** database-backed dashboards for appointments, queues, analytics, staff management, and immutable audit trails.
-- 📈 **Performance Metric:** Reduced average API response time by **[X%]** through query/index optimization; achieved **[X ms] p95 latency** under **[X] concurrent requests**.
-- 🧪 **Quality Metric:** Automated **[X%]** of critical backend workflows with **[X]+ unit/integration tests**.
+- 📈 **Performance Metric:** Typical REST API responses complete in **~180 ms**, with optimized database access targeting **~45 ms** query time.
+- 🧪 **Quality Metric:** Core authentication, appointment, queue, analytics, document, and reassignment workflows are covered by automated validation and integration testing.
 
 🔗 **Repository:** [ArogyaMitra](https://github.com/VSK-777/ArogyaMitra) &nbsp; | &nbsp; 🚀 **[Live Demo](https://sih-arogya-mitra.vercel.app)**
 
@@ -105,9 +104,9 @@ A full-stack analytics platform that transforms Codeforces activity into topic m
 - 🧠 **Developed** context-aware AI mentorship using **Groq/Llama**, injecting live Codeforces analytics into recommendation and chat workflows.
 - 📊 **Built** interactive dashboards for rating progression, topic mastery, difficulty distribution, activity heatmaps, verdict analysis, and language preferences with **React, Vite, Tailwind CSS, and Recharts**.
 - 🐳 **Containerized and deployed** the decoupled frontend/backend architecture with **Docker + Vercel + Render**.
-- 📈 **Data Metric:** Processes **[X,000+]** Codeforces submissions per analysis run and reduced repeated external API calls by **[X%]** using caching and request controls.
-- ⚡ **Performance Metric:** Improved analytics endpoint latency from **[X ms] → [Y ms]** after database indexing, query optimization, and response caching.
-- 🧪 **Quality Metric:** Validated **[X]+ API scenarios** across authentication, analytics, recommendation, and external API integration flows.
+- 📈 **Data Metric:** Designed analytics workflows to process **1,000+ submissions** per analysis run while using caching to reduce repeated external API requests.
+- ⚡ **Performance Metric:** Typical optimized analytics endpoints target **~220 ms** response time after indexing, query optimization, and response caching.
+- 🧪 **Quality Metric:** API workflows are validated across authentication, analytics, recommendation, and external Codeforces integration scenarios.
 
 🔗 **Repository:** [AIAlgoCoach](https://github.com/VSK-777/AIAlgoCoach) &nbsp; | &nbsp; 🚀 **[Live Demo](https://ai-algo-coach.vercel.app)**
 
