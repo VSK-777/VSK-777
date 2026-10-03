@@ -95,7 +95,7 @@ A strong foundation in Data Structures and Algorithms is critical to my approach
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://activity-graph.vercel.app/graph?username=VSK-777&bg_color=0D1117&color=2563EB&line=2563EB&point=FFFFFF&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph" alt="Activity Graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=VSK-777&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </div>
 
 <br />
