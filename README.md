@@ -88,7 +88,7 @@ A performance analytics platform that connects with Codeforces to provide person
 A strong foundation in Data Structures and Algorithms is critical to my approach to backend engineering and system design.
 - **LeetCode:** Consistently practicing data structures and algorithms with **250+** problems solved. [View Profile](https://leetcode.com/u/VAJJHA_SAI_KRISHNA/)
 - **CodeChef:** Solved **2,277** problems and actively participate in contests. [View Profile](https://www.codechef.com/users/v_sai_krishna)
-- **Margam Academy:** Actively tracking learning journey and DSA progress with **75+** problems solved. [View Profile](https://margamacademy.com/)
+- **Margam Academy:** Actively tracking learning journey and DSA progress with **75+** problems solved. [View Profile](https://www.margamacademy.com/browse)
 
 ---
 
@@ -116,7 +116,7 @@ I am always open to discussing backend engineering, software architecture, or ex
   <a href="https://www.linkedin.com/in/vajjha-sai-krishna/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/u/VAJJHA_SAI_KRISHNA/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://www.codechef.com/users/v_sai_krishna"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-  <a href="https://margamacademy.com"><img src="https://img.shields.io/badge/Margam_Academy-4B0082?style=for-the-badge&logoColor=white" alt="Margam Academy" /></a>
+  <a href="https://www.margamacademy.com/browse"><img src="https://img.shields.io/badge/Margam_Academy-4B0082?style=for-the-badge&logoColor=white" alt="Margam Academy" /></a>
 </div>
 
 ---
