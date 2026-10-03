@@ -95,7 +95,7 @@ A strong foundation in Data Structures and Algorithms is critical to my approach
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/VSK-777" alt="GitHub Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VSK-777&theme=github_dark" alt="GitHub Profile Summary" />
 </div>
 
 <br />
