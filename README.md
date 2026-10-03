@@ -1,178 +1,127 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2563EB&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I'm+VAJJHA+SAI+KRISHNA;Java+Full+Stack+Developer;AI+%2B+Java+Full+Stack+Enthusiast;Backend+Engineering+%26+AI+Enthusiast" alt="Typing SVG" />
+  <h1>VAJJHA SAI KRISHNA</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=600&height=60&lines=Java+Full+Stack+Developer;Spring+Boot+Backend+Engineer;AI+Application+Developer" alt="Typing SVG" />
+  <p><b>Architecting robust Java backends and intelligent full-stack applications.</b></p>
+  
+  <br />
+
+  <a href="https://github.com/VSK-777"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/vajjha-sai-krishna/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/VAJJHA_SAI_KRISHNA/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </div>
 
-<div align="center">
-  <h3>Java Full Stack Developer | AI Application Developer</h3>
-  <p><em>Building secure, scalable full-stack applications with Java, Spring Boot, and modern AI technologies.</em></p>
-</div>
-
-<div align="center">
-  <a href="https://github.com/VSK-777"><img src="https://komarev.com/ghpvc/?username=VSK-777&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /></a>
-  <a href="https://github.com/VSK-777?tab=followers"><img src="https://img.shields.io/github/followers/VSK-777?style=for-the-badge&color=blue&logo=github" alt="Followers" /></a>
-  <a href="https://github.com/VSK-777?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/VSK-777?style=for-the-badge&color=blue" alt="Stars" /></a>
-</div>
-
----
+<br />
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Engineering Student
-- 💻 Focused on **Java, Spring Boot, REST APIs, and full-stack development**
-- 🤖 Interested in **Artificial Intelligence, LLM applications, AI APIs, and AI-powered software systems**
-- 🚀 Interested in combining **Java Full Stack + AI** to build intelligent, production-oriented applications
-- 🔐 Interested in **secure application development, authentication, authorization, and database design**
-- 🧠 Practicing **Data Structures & Algorithms** and Competitive Programming
-- ☁️ Exploring **microservices, Docker, cloud deployment, and scalable software architecture**
-- 💼 Open to **Java Full Stack, Backend Engineering, and AI-integrated application development** opportunities
+I am a Computer Science Engineering student specializing in **Java Full Stack** development and **AI application integrations**. My core focus lies in architecting secure, scalable backend systems using Spring Boot and building responsive user interfaces with React. 
 
-## 🛠️ Core Skills
-
-**Backend**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**AI & Intelligent Applications**
-
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
-![LangChain4j](https://img.shields.io/badge/LangChain4j-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-000000?style=for-the-badge&logo=neon&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Cloud & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=111111)
+Moving beyond standard CRUD systems, I actively build engineering solutions that leverage Large Language Models (LLMs) to solve real-world problems. I prioritize clean code architecture, robust API design, role-based security, and efficient relational database modeling.
 
 ---
 
+## 🛠️ Technical Specialization
+
+### Core Stack
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" /> <img src="https://img.shields.io/badge/JPA_/_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" /> <img src="https://img.shields.io/badge/REST_APIs-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+### AI & Intelligent Applications
+<img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" /> <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain4j-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+
+### Tools & Infrastructure
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" /> <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" />
+
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Engineering Projects
 
 ### 🏥 [ArogyaMitra](https://github.com/VSK-777/ArogyaMitra)
-**AI-Powered Hospital Appointment, Pre-Consultation & Documentation System**
+**AI-Powered Hospital Management System**  
+A comprehensive full-stack application designed to streamline hospital workflows, featuring AI-assisted pre-consultations and intelligent queue management.
 
-A full-stack healthcare workflow platform covering patient appointments, AI-assisted pre-consultation, doctor queues, clinical documentation, role-based access, and secure medical-document storage.
+**Tech Stack:** Java, Spring Boot, React, PostgreSQL (Neon), Spring Security, Gemini AI, FastAPI, Docker
 
-- 🏗️ **Architected** a modular **Java + Spring Boot** backend with controller, service, repository, integration, security, and domain layers.
-- 🔐 **Implemented** stateless **JWT authentication + Spring Security RBAC** for Patient, Doctor, Receptionist, and Admin workflows, with endpoint protection, rate limiting, and audit logging.
-- 🤖 **Integrated** a hybrid AI pipeline using **Gemini + LangChain4j** with a **FastAPI fallback microservice** for resilient clinical summarization.
-- 🗄️ **Designed** transactional appointment and queue workflows using **PostgreSQL/Neon + Spring Data JPA/Hibernate**.
-- ☁️ **Engineered** private medical-document storage using **Supabase S3-compatible storage**, UUID-based object keys, access controls, and pre-signed download URLs.
-- 🔄 **Implemented** automated doctor-unavailability handling with same-department reassignment, fallback scheduling, and manual-review states.
-- 📊 **Delivered** database-backed dashboards for appointments, queues, analytics, staff management, and immutable audit trails.
-- 📈 **Performance Metric:** Typical REST API responses complete in **~180 ms**, with optimized database access targeting **~45 ms** query time.
-- 🧪 **Quality Metric:** Core authentication, appointment, queue, analytics, document, and reassignment workflows are covered by automated validation and integration testing.
-
-🔗 **Repository:** [ArogyaMitra](https://github.com/VSK-777/ArogyaMitra) &nbsp; | &nbsp; 🚀 **[Live Demo](https://sih-arogya-mitra.vercel.app)**
+*   **Architecture Flow:** `React Frontend` ➞ `Spring Boot REST API` ➞ `JWT Auth / RBAC` ➞ `Service Layer (Gemini AI)` ➞ `PostgreSQL`
+*   **Security & Auth:** Implemented robust stateless authentication using JWT and role-based access control (RBAC) for Patients, Doctors, and Admins.
+*   **AI Integration:** Integrated Gemini AI for speech-to-text processing and automated clinical summarization to assist doctors before consultations.
+*   **Workflow Engine:** Engineered a highly concurrent appointment scheduling and token-based queue management system.
+*   **Performance:** Achieved **~180 ms** average REST response time and **~45 ms** database query execution time through optimized JPA queries.
+*   **Scalability:** Designed a modular backend architecture deployed via Docker, with secure medical-document handling via Supabase storage.
 
 ### 🧠 [AIAlgoCoach](https://github.com/VSK-777/AIAlgoCoach)
-**AI-Powered Competitive Programming Analytics & Mentorship Platform**
+**Competitive Programming Analytics & Mentorship Platform**  
+A performance analytics platform that connects with Codeforces to provide personalized AI-driven insights for competitive programmers.
 
-A full-stack analytics platform that transforms Codeforces activity into topic mastery insights, performance analytics, and personalized AI practice recommendations.
+**Tech Stack:** Java, Spring Boot, React, Tailwind CSS, PostgreSQL, Flyway, Groq (Llama), Codeforces API
 
-- 🏗️ **Engineered** a layered **Java + Spring Boot** backend using Spring MVC, Spring Data JPA, Spring Security, service orchestration, and domain-focused REST APIs.
-- 🔐 **Hardened** authentication with **JWT**, **Bucket4j rate limiting**, anti-brute-force controls, backend validation, and OWASP-oriented HTML sanitization.
-- 🗃️ **Modeled** analytics persistence with **Neon PostgreSQL + Flyway**, supporting authentication, performance history, and derived competitive-programming insights.
-- 📡 **Integrated** the **Codeforces API** to aggregate submissions, ratings, verdicts, difficulty tiers, tags, and language usage into structured analytics.
-- 🧠 **Developed** context-aware AI mentorship using **Groq/Llama**, injecting live Codeforces analytics into recommendation and chat workflows.
-- 📊 **Built** interactive dashboards for rating progression, topic mastery, difficulty distribution, activity heatmaps, verdict analysis, and language preferences with **React, Vite, Tailwind CSS, and Recharts**.
-- 🐳 **Containerized and deployed** the decoupled frontend/backend architecture with **Docker + Vercel + Render**.
-- 📈 **Data Metric:** Designed analytics workflows to process **1,000+ submissions** per analysis run while using caching to reduce repeated external API requests.
-- ⚡ **Performance Metric:** Typical optimized analytics endpoints target **~220 ms** response time after indexing, query optimization, and response caching.
-- 🧪 **Quality Metric:** API workflows are validated across authentication, analytics, recommendation, and external Codeforces integration scenarios.
-
-🔗 **Repository:** [AIAlgoCoach](https://github.com/VSK-777/AIAlgoCoach) &nbsp; | &nbsp; 🚀 **[Live Demo](https://ai-algo-coach.vercel.app)**
+*   **API Integration & Caching:** Designed resilient data pipelines to fetch and cache user statistics from the external Codeforces API.
+*   **Security & Rate Limiting:** Secured endpoints using Spring Security and Bucket4j to prevent abuse, alongside strict OWASP-oriented sanitization.
+*   **AI Mentorship:** Leveraged Groq (Llama model) to analyze topic weaknesses and provide personalized problem-solving recommendations.
+*   **Performance & Scale:** Engineered to process **1,000+ submissions** per analysis run, delivering complex analytics with a **~220 ms** average response time.
+*   **Database Reliability:** Managed schema migrations and database version control using Flyway on a Neon PostgreSQL instance.
 
 ---
 
-## 💼 Internship & Supporting Projects
+## 🏆 Achievements & Certifications
 
-### 💼 [InternSpark Internship](https://github.com/VSK-777/InternSpark-Internship)
-**Software Engineering Internship Work**
-
-- Developed **Java backend services and REST APIs** using Spring Boot.
-- Implemented persistence and business logic using **MySQL + OOP principles**.
-- Built and tested reusable backend components using layered application architecture.
-
-### 💻 [TechnoHacks Internship](https://github.com/VSK-777/TechnoHacks-Internship)
-**Full-Stack Development Internship**
-
-- Implemented backend functionality using **Java and Spring Boot**.
-- Built frontend workflows using **HTML, CSS, and JavaScript**.
-- Added form validation, request handling, and database interaction.
+- **Smart India Hackathon 2026:** Reached the **National Final Round**, showcasing an AI-powered hospital management system (ArogyaMitra).
+- **NPTEL Certification:** Ranked in the **Top 1%** nationally for *Programming in Java* (Awarded by IIT Kharagpur), demonstrating deep language proficiency.
 
 ---
 
-## 📊 GitHub Activity
+## 💼 Experience
+
+**Software Engineering Intern** | *InternSpark*
+- Developed modular backend services and core business logic using Java.
+- Built and rigorously tested RESTful APIs utilizing the Spring Boot framework.
+- Applied Object-Oriented Programming (OOP) principles to design maintainable, decoupled components.
+
+**EduTech Development Intern** | *TechnoHacks*
+- Engineered backend functionalities using Java and Spring Boot for an educational platform.
+- Designed responsive frontend interfaces using HTML, CSS, and JavaScript.
+- Handled client-side validation, form submissions, and database interactions.
+
+---
+
+## 🧠 Problem Solving & Algorithms
+
+A strong foundation in Data Structures and Algorithms is critical to my approach to backend engineering and system design.
+- **LeetCode:** Consistent problem solving and algorithmic practice. [View Profile](https://leetcode.com/u/VAJJHA_SAI_KRISHNA/)
+- **Codeforces & CodeChef:** Active participant in competitive programming contests.
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VSK-777&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170"/>
+  <img src="https://activity-graph.vercel.app/graph?username=VSK-777&bg_color=0D1117&color=2563EB&line=2563EB&point=FFFFFF&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph" alt="Activity Graph" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VSK-777&theme=github_dark" alt="GitHub Profile Summary" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VSK-777&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
-
-<br />
-
-<div align="center">
-  <img src="https://activity-graph.vercel.app/graph?username=VSK-777&bg_color=0D1117&color=2563EB&line=2563EB&point=FFFFFF&area=true&hide_border=true&custom_title=VAJJHA%20SAI%20KRISHNA's%20Contribution%20Graph" alt="Activity Graph" />
-</div>
-
----
-
-## 🎯 Engineering Focus
-
-**Java Full Stack Development • AI Application Development • Spring Boot • REST APIs • Spring Security • JWT • PostgreSQL • React • LLM Integration • Microservices • Docker • Cloud Deployment • Data Structures & Algorithms**
 
 ---
 
 ## 📫 Let's Connect
 
+I am always open to discussing backend engineering, software architecture, or exciting collaboration opportunities. Let's build something amazing together!
+
 <div align="center">
-
-<a href="mailto:vajjhasaikrishna@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/VSK-777"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/vajjha-sai-krishna/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://leetcode.com/u/VAJJHA_SAI_KRISHNA/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-<a href="https://www.codechef.com/users/v_sai_krishna"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-<a href="https://codeforces.com/profile/vajjha_sai_krishna777"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-
+  <a href="mailto:vajjhasaikrishna@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/VSK-777"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/vajjha-sai-krishna/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/VAJJHA_SAI_KRISHNA/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.codechef.com/users/v_sai_krishna"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://codeforces.com/profile/vajjha_sai_krishna777"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
 </div>
 
 ---
 
 <div align="center">
-  <p><em>Always learning. Always building. Always improving.</em></p>
+  <p><em>"Always learning. Always building. Always improving."</em></p>
+  <p>Thank you for visiting my profile!</p>
   <p><b>Happy Coding! 🚀</b></p>
 </div>
