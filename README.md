@@ -64,7 +64,7 @@ A performance analytics platform that connects with Codeforces to provide person
 
 ## 🏆 Achievements & Certifications
 
-- **Smart India Hackathon 2026:** Selected for the **College Final Round** **`(Selected from 300+ teams which was conducted in 3 rounds)`**, showcasing an AI-powered hospital management system (ArogyaMitra).
+- **Smart India Hackathon 2026:** Selected for the **College Final Round** (top tier among 300+ teams across 3 rounds), showcasing an AI-powered hospital management system (ArogyaMitra).
 - **Programming in Java Certificate:** Ranked in the **Top 1%** nationally (Awarded by IIT Kharagpur via NPTEL), demonstrating deep language proficiency.
 
 ---
@@ -87,8 +87,8 @@ A performance analytics platform that connects with Codeforces to provide person
 
 A strong foundation in Data Structures and Algorithms is critical to my approach to backend engineering and system design.
 - **LeetCode:** Consistently practicing data structures and algorithms with **250+** problems solved. [View Profile](https://leetcode.com/u/VAJJHA_SAI_KRISHNA/)
-- **CodeChef:** Solved **2,277** problems and actively participate in contests. [View Profile](https://www.codechef.com/users/v_sai_krishna)
-- **Margam Academy:** Actively tracking learning journey and DSA progress with **75+** problems solved. [View Profile](https://www.margamacademy.com/browse)
+- **CodeChef:** Solved **2,000+** problems and actively participating in contests. [View Profile](https://www.codechef.com/users/v_sai_krishna)
+- **Margam Academy:** Actively learning Competitive Programming and DSA with **75+** problems solved. [View Profile](https://www.margamacademy.com/browse)
 
 ---
 
