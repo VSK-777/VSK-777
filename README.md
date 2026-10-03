@@ -95,7 +95,7 @@ A strong foundation in Data Structures and Algorithms is critical to my approach
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VSK-777&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VSK-777&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 <br />
