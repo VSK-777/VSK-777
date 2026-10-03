@@ -64,8 +64,8 @@ A performance analytics platform that connects with Codeforces to provide person
 
 ## 🏆 Achievements & Certifications
 
-- **Smart India Hackathon 2026:** Reached the **National Final Round**, showcasing an AI-powered hospital management system (ArogyaMitra).
-- **NPTEL Certification:** Ranked in the **Top 1%** nationally for *Programming in Java* (Awarded by IIT Kharagpur), demonstrating deep language proficiency.
+- **Smart India Hackathon 2026:** Selected for the **College Final Round** (emerged from 300+ teams across 3 rounds), showcasing an AI-powered hospital management system (ArogyaMitra).
+- **Programming in Java Certificate:** Ranked in the **Top 1%** nationally (Awarded by IIT Kharagpur via NPTEL), demonstrating deep language proficiency.
 
 ---
 
