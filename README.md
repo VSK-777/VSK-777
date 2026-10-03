@@ -116,7 +116,7 @@ I am always open to discussing backend engineering, software architecture, or ex
   <a href="https://www.linkedin.com/in/vajjha-sai-krishna/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/u/VAJJHA_SAI_KRISHNA/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://www.codechef.com/users/v_sai_krishna"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-  <a href="https://www.margamacademy.com/browse"><img src="https://img.shields.io/badge/Margam_Academy-4B0082?style=for-the-badge&logoColor=white" alt="Margam Academy" /></a>
+  <a href="https://www.margamacademy.com"><img src="https://img.shields.io/badge/Margam_Academy-4B0082?style=for-the-badge&logoColor=white" alt="Margam Academy" /></a>
 </div>
 
 ---
