@@ -1,0 +1,27 @@
+{
+  "name": "little-lemon-table-booking",
+  "version": "1.0.0",
+  "private": true,
+  "description": "React table booking application for the Little Lemon restaurant course assignment",
+  "type": "module",
+  "scripts": {
+    "start": "vite --host 0.0.0.0",
+    "dev": "vite",
+    "build": "vite build",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.1.0",
+    "@testing-library/user-event": "^14.5.2",
+    "@vitejs/plugin-react": "^4.3.4",
+    "jsdom": "^25.0.1",
+    "vite": "^6.0.5",
+    "vitest": "^2.1.8"
+  }
+}
