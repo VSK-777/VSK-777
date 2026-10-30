@@ -1,40 +1,42 @@
-# Little Lemon — Table Booking Web Application
+# Little Lemon — Table Booking
 
-A responsive React project for the Little Lemon restaurant table-booking capstone assignment. It demonstrates a booking form, controlled React state, client-side validation, accessible labels and error messages, responsive styling, and unit tests.
+A responsive React + Vite restaurant reservation interface inspired by the warm, fresh feel of a Mediterranean dining experience.
 
 ## Features
 
-- React form for booking date, time, party size, occasion, guest name and email.
-- Date field blocks past dates; available time choices are enabled after a date is selected.
-- Validation for required fields, email format and party sizes from 1–10.
-- Accessible form labels, `aria-invalid`, error descriptions, and live confirmation/status feedback.
-- Responsive layout for desktop, tablet and mobile, with reduced-motion support.
-- Unit tests for time options, validation and key form behaviour.
+- Editorial-style landing section and responsive booking layout.
+- Controlled React form for date, time, party size, occasion, name and email.
+- Local-date minimum to avoid timezone-related date shifts.
+- Client-side validation with field-level accessible errors.
+- Reservation review summary with a clear edit path.
+- Responsive layouts for desktop, tablet and mobile.
+- Reduced-motion support and semantic page landmarks.
+- Vitest tests for date handling, validation and core form behavior.
 
-## Requirements
+## Tech stack
 
-- Node.js 18 or newer
-- npm
+- React 18
+- Vite 6
+- Plain CSS
+- Vitest and React Testing Library
 
 ## Run locally
+
+Requirements: Node.js 18+ and npm.
 
 ```bash
 npm install
 npm run dev
 ```
 
-Open the local URL printed by Vite (usually `http://localhost:5173`).
+Open the URL printed by Vite (usually `http://localhost:5173`).
 
-## Build and test
+## Test and production build
 
 ```bash
 npm test
 npm run build
 ```
-
-## Important scope note
-
-This is a front-end demonstration. It validates and presents booking details in the browser but does not connect to a reservation API or store bookings on a server. The available-time helper is intentionally deterministic and can be connected to an API in a later iteration.
 
 ## Project structure
 
@@ -50,6 +52,10 @@ little-lemon-table-booking/
     └── styles.css
 ```
 
-## Accessibility and maintainability
+## Booking flow scope
 
-Inputs have visible labels and required indicators. Validation is expressed as text rather than color alone. Components and CSS are separated into focused files, and the validation/time helpers are exported for direct testing.
+This repository is a front-end demonstration. The form validates the details and displays a review summary in the browser. It does **not** create, transmit, or persist a real restaurant reservation. Available times are deterministic sample data; connect a reservation API and server-side availability checks before using it in production.
+
+## Accessibility
+
+All form controls have programmatic labels, required indicators, field-level error descriptions, and invalid-state attributes. Submission feedback is announced through a live region. Keyboard focus is visible, and reduced-motion preferences are respected.
