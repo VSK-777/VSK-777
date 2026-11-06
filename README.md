@@ -60,8 +60,6 @@ A performance analytics platform that connects with Codeforces to provide person
 *   **Performance & Scale:** Engineered to process **1,000+ submissions** per analysis run, delivering complex analytics with a **~220 ms** average response time.
 *   **Database Reliability:** Managed schema migrations and database version control using Flyway on a Neon PostgreSQL instance.
 
----
-
 ## 🏆 Achievements & Certifications
 
 - **Smart India Hackathon 2026:** Selected for the **College Final Round** **`(Selected from 300+ teams which was conducted in 3 rounds)`**, showcasing an AI-powered hospital management system (ArogyaMitra).
